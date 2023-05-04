@@ -1,0 +1,7 @@
+Notes:
+
+2 simulations can be found here: OldIndividualRequestSimulation contains the conference appraoch (centralized, coarse-grained) and IndividualRequestSimulation contains the journal approach (decentralized, fine-grained).
+
+Each of these simulations writes the following to the output.txt files: Time taken to complete a request, with each row representing set of 30 simulations for each search length (note that this looks exactly similar to the data stored in the excel file for this case study)
+
+They can each be ran to generate another set of simulations.
